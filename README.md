@@ -7,8 +7,6 @@
 
 </div>
 
----
-
 <div align="center" >
 
 ```bash
